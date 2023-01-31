@@ -16,3 +16,5 @@ Team India
 Other players to watch
 * Taufik Hidayat
 * Hendra Setiawan
+
+click on this [link](https://github.com/Shanmuk-palnati/assignment2-palnati/blob/3c8dba59df2c7561953d0529c71f6ea1d43fc14d/README.md) to find out about me.
