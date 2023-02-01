@@ -24,8 +24,8 @@ These are the 4 countries that I would recommend to visit.
 # Pithy Quotes
 
 > I want my children to have all the things I couldn't afford. Then I want to move in with them.
->> Author - Phyllis Diller
+>> Author - *Phyllis Diller*
 >
 > I used to sell furniture for a living. The trouble was, it was my own
->> Author - Les Dawson
+>> Author - *Les Dawson*
 
