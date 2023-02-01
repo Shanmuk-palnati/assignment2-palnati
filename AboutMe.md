@@ -29,3 +29,26 @@ These are the 4 countries that I would recommend to visit.
 > I used to sell furniture for a living. The trouble was, it was my own
 >> Author - *Les Dawson*
 
+---
+
+# Code Fencing
+
+> get image height and width with php
+
+Question Link <https://stackoverflow.com/questions/20482235/get-image-height-and-width-with-php>
+
+```
+<?php
+
+  list($width, $height, $type, $attr) = getimagesize("url/to/image.jpg");
+
+  echo "Image width " . $width;
+  echo "Image height " . $height;
+  echo "Image type " . $type;
+  echo "Attribute " . $attr;
+
+?>
+```
+
+Snippet link <https://css-tricks.com/snippets/php/get-widthheight-of-image/>
+
