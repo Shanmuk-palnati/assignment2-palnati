@@ -11,6 +11,7 @@ I have worked there for nearly 2 years as a full stack developer. Later, I moved
 These are the 4 countries that I would recommend to visit.
 
 |Country Name|Reason to Visit|Number of Days|
+|------------|---------------|--------------|
 |India|Tropical Climate and Food|10|
 |Nepal|Explore the majestic Himalayas|8|
 |Bhutan|Buddhist temples and heritage|7|
