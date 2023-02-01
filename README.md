@@ -18,3 +18,17 @@ Other players to watch
 * Hendra Setiawan
 
 You can know about me [here](AboutMe.md)
+
+---
+
+# Table with country details.
+
+These are the 4 countries that I would recommend to visit.
+
+|Country Name|Reason to Visit|Number of Days|
+|------------|---------------|--------------|
+|India|Tropical Climate and Food|10|
+|Nepal|Explore the majestic Himalayas|8|
+|Bhutan|Buddhist temples and heritage|7|
+|Sri Lanka|Pristine beaches and vivid culture|5|
+
