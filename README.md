@@ -17,4 +17,4 @@ Other players to watch
 * Taufik Hidayat
 * Hendra Setiawan
 
-click on this [link](https://github.com/Shanmuk-palnati/assignment2-palnati/blob/3c8dba59df2c7561953d0529c71f6ea1d43fc14d/AboutMe.md) to know about me.
+click on this [link](AboutMe.md) to know about me.
