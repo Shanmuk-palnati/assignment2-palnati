@@ -16,5 +16,3 @@ Team India
 Other players to watch
 * Taufik Hidayat
 * Hendra Setiawan
-
-click on this [link](AboutMe.md) to know about me.
