@@ -8,6 +8,8 @@ I have worked there for nearly 2 years as a full stack developer. Later, I moved
 
 ---
 
+# Table with country details.
+
 These are the 4 countries that I would recommend to visit.
 
 |Country Name|Reason to Visit|Number of Days|
